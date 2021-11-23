@@ -1,1 +1,2 @@
-rasa == 2.x
+rasa
+tensorflow
